@@ -14,7 +14,7 @@ pygame.init()
 WIN_HEIGHT,WIN_WIDTH = 600,600
 
 WIN = pygame.display.set_mode((WIN_WIDTH , WIN_HEIGHT))
-pygame.display.set_caption("One Stone Two Bird")
+pygame.display.set_caption("Coin Raiders")
 
 SCORE_FONT = pygame.font.SysFont("comicsans",25)
 MSG_FONT = pygame.font.SysFont("comicsans" , 30)
